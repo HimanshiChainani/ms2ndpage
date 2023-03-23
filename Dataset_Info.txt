@@ -1,0 +1,89 @@
+The provided dataset is of size 1276x141 and my dataframe is of size 1276x45
+
+Make: Car manufacturers
+
+Model: Model of car manufacturers
+
+Variant: There are are many varients of every model
+
+Ex-Showroom_Price(Rs. ): This price is the final purchase cost of a vehicle 
+
+Displacement(cc): Engines are measured by displacement, usually expressed in liters (L) or cubic centimeters (cc). Displacement is the total volume of all the cylinders in an engine.
+
+Kerb_Weight(kg): This is the weight of the vehicle without any passenger or items in it except for the standard equipment that comes with it.
+
+Cylinders: A cylinder is the power unit of an engine; it's the chamber where the gasoline is burned and turned into power.
+
+Emission_Norm:These are the standards set up by the Indian government which specify the amount of air pollutants from internal combustion engines, including those that vehicles can emit.
+
+Fuel_Tank_Capacity(litres):This is the tank’s usable capacity (i.e., the volume of fuel that can be pumped into the tank through the filler pipe with the vehicle on a level surface and with the unusable capacity already in the tank).
+
+Fuel_Type: Fuel type means each category of fuels that share a common name or classification. Fuel type of the vehicle (such as gas, compressed natural gas (CNG), or other fuel).
+
+Body_Type:A car body type is a categorisation of a vehicle based on its design, shape and space.Hatchback, Sedan, SUV, MUV, Coupe, Convertible, and Pickup Truck are some common car types.
+
+Doors: It is the total number of doors which include side doors and boot lid.
+
+ARAI_Certified_Mileage(km/litre): It is a mileage test of a vehicle conducted under regulated conditions such as speed , rpm tyre pressure , no. of gears changed ( if geared vehicle) etc. 
+
+Gears: The gears determine the amount of power available from the engine.
+
+Ground_Clearance(mm):Ground clearance means the distance between your car's undercarriage and the road.
+
+Power: Power is the rate of completing work (or applying torque) in a given amount of time. Mathematically, horsepower equals torque multiplied by rpm.
+
+Torque: Torque is the capacity to do work, while power is how quickly some strenuous task can be accomplished.
+
+Odometer:An odometer is a device that is used for measuring the distance traveled by a vehicle.
+
+Speedometer: The speedometer show how fast your vehicle is going.
+
+Tachometer: A tachometer (revolution-counter, tach, rev-counter, RPM gauge) is an instrument measuring the rotation speed of a shaft or disk, as in a motor or other machine.
+
+Seating_Capacity: Seating Capacity means the number of passengers the vehicle is officially provisioned for by the manufacturer, including the driver.
+
+Start_/_Stop_Button: A vehicle start-stop system or stop-start system automatically shuts down and restarts the internal combustion engine to reduce the amount of time the engine spends idling, thereby reducing fuel consumption and emissions.
+
+Audiosystem: It is equipment installed in a car or other vehicle to provide in-car entertainment and information for the vehicle occupants.
+
+Aux-in_Compatibility: An auxiliary port (AUX) is a type of standard communications port on a device that accommodates audio signals for: MP3 players. Headphones and headsets.
+
+Basic_Warranty(years/Kms (whichever completes first)): The basic cover, the bumper-to-bumper warranty, includes almost all elements of the vehicle, i.e., the air-conditioning, electrical fixtures, and the audio system.
+
+Bluetooth:t's a fast way of connecting your smartphone to your car's infotainment system, so you can make calls, stream music, and access messages while on the move, without having to use your phone.
+
+12v_Power_Outlet: The 12V socket, also known variously as a car cigarette lighter or 12V auxiliary power outlet, is the primary method by which power is delivered to portable electronics in cars, trucks, recreational vehicles, boats, and in a handful of other contexts.
+
+Boot_Lid_opener: A Boot Opener, sometimes referred to as Tailgate Opener or Pneumatic Hatch Opener, is a device that assists in opening and closing the rear hatch of a vehicle.
+
+Boot_Space(litres): Boot space means the space to keep our luggages. And it will be on the back of the car.
+
+Child_Safety_Locks: The child safety locks prevent children from being able to open a rear door from the inside. There is an electric and a manual lock.
+
+Extended_Warranty (years/Kms (whichever completes first)): It is an additional warranty that you can buy at the time of purchasing the new car, or in some cases, before the standard warranty expires.
+
+Fuel-lid_Opener:It prevents fuel contamination and protects the fuel tank.
+
+Fuel_Gauge: A fuel gauge is an instrument used to indicate the amount of fuel in a fuel tank.
+
+Handbrake: It is a mechanism used to keep the vehicle securely motionless when parked.
+
+Hill_Assist: Hill Start Assist is a feature that automatically activates to stop your car from rolling back when you press and release the brakes on a hill by holding the brake pressure.
+
+Airbags: Airbags are inflatable cushions built into a vehicle that protect occupants from hitting the vehicle interior or objects outside the vehicle (for example, other vehicles or trees) during a collision.
+
+Number_of_Airbags: It is the number of airbags present in car for the safety of occupants.
+
+Parking_Assistance: Park Assist is an automated parking aid that helps drivers park with greater precision, using guidance system technology that rivals ultrasonic and other camera-based solutions with superior, advanced technology.
+
+Infotainment_Screen: An infotainment system typically takes the form of a touchscreen or display that's mounted in (or on) the dashboard in the middle of the car. 
+
+Navigation_System: A car's navigation system uses GPS to detect the current location of the vehicle via satellite.
+
+Third_Row_AC_Vents: Ac outlets for 3rd row(if has) which can be a really useful creature comfort feature for the rear occupants.
+
+Second_Row_AC_Vents: Ac outlets for 2nd row which can be a really useful creature comfort feature for the rear occupants.
+
+Engine_Type: There are mainly two types of car engines: petrol and diesel.
+
+Rain_Sensing_Wipers: The rain sensor monitors the amount of moisture on the windshield and automatically turns the wipers on. It will adjust the wiper speed by the amount of moisture that the sensor detects on the windshield.
