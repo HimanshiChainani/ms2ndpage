@@ -32,7 +32,8 @@ df = pd.read_csv('pre_processed_data.csv')
 if choices == 'EDA':
     # dataframe filtering
     affordable = df[df["Ex-Showroom_Price"] <= 2000000]
-    affordable['Number_of_Airbags'] = affordable['Number_of_Airbags'].fillna(0)
+    affordable.loc[:, 'Number_of_Airbags'] = affordable['Number_of_Airbags'].fillna(0)
+
 
     numeric_cols = list(affordable.select_dtypes(['float', 'int']).columns)
     non_numeric_cols = list(affordable.select_dtypes(['object']).columns)
